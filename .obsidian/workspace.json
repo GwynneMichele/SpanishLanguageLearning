@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "c1f82df135aa6649",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5207f4526102784",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf6e742ddf62b2f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Start Here/00 Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4712b7ca8d4b90fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "f65d6e2210169e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c5c3aacb02e2c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89919598b7353141",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15b650eb1037491d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5269bea2409f6036",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06743c3bd34d7e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6231092d6a9475ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Start Here/00 Outline.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3567ab3c8ef08eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000 Start Here/00 Outline.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02597f692df0968d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e2f9432991a26f24",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000 Start Here/00 Outline.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cf6e742ddf62b2f1",
+  "lastOpenFiles": [
+    "600 Review and Quizzing/Progress Tracking.md",
+    "000 Start Here/00 Outline.md",
+    "600 Review and Quizzing/Regular Review Strategies.md",
+    "600 Review and Quizzing/Self-Quizzing Techniques.md",
+    "500 Practice Activities/Conversational Scenarios.md",
+    "500 Practice Activities/Reading and Translation Exercises.md",
+    "500 Practice Activities/Listening and Comprehension Exercises.md",
+    "500 Practice Activities/Writing Exercises.md",
+    "300 Essential Phrases/Ordering Food and Drink.md",
+    "300 Essential Phrases/Asking for Help and Directions.md",
+    "400 Expansion Tools/Learning from Spanish Media (TV, Music, News, Books).md",
+    "400 Expansion Tools/Creating Notes for New Word and Phrases.md",
+    "Creating Notes for New Words",
+    "400 Expansion Tools/Using ChatGPT to Generate Vocabulary Lists.md",
+    "300 Essential Phrases/Business Conversations.md",
+    "300 Essential Phrases/Travel-Related Phrases.md",
+    "300 Essential Phrases/Expressing Feelings.md",
+    "300 Essential Phrases/Talking About the Weather.md",
+    "300 Essential Phrases/Shopping Conversations.md",
+    "Ordering Food",
+    "Asking for Help",
+    "300 Essential Phrases/Introducing Yourself.md",
+    "300 Essential Phrases/Greetings and Goodbyes.md",
+    "200 Grammar Points/Articles in Spanish.md",
+    "200 Grammar Points/The Imperative Mood (Commands).md",
+    "200 Grammar Points/Conditional Sentences.md",
+    "200 Grammar Points/Subjunctive Mood.md",
+    "200 Grammar Points/Formal vs Informal Speech.md",
+    "200 Grammar Points/Negation in Spanish.md",
+    "600 Review and Quizzing",
+    "500 Practice Activities",
+    "400 Expansion Tools",
+    "300 Essential Phrases",
+    "200 Grammar Points",
+    "900 Reference/Definition Notes",
+    "900 Reference"
+  ]
+}
